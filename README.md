@@ -23,7 +23,7 @@ Appropriately labels the data set with descriptive variable names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
-# Descriptopn of Assignment Contents
+# Description of Assignment Contents
 
 Run_analysis.R: downloads all the required files to complete this assignment and creates a big file
 mean_and_std.csv and a small file tidy_dataset.csv (both are stored in /results)
