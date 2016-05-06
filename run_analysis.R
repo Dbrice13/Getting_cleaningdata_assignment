@@ -2,7 +2,6 @@
 
 ## Preparatory work
 
-
 Download and unzip the dataset:
 filename <- "getdata_dataset.zip"
 
