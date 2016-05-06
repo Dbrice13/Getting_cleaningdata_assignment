@@ -1,4 +1,4 @@
-# run_analysis.R 
+# Run_analysis.R 
 
 ## Preparatory work
 
