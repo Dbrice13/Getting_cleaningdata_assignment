@@ -1,4 +1,4 @@
-CodeBook.md
+#CodeBook.md
 
 run_analysis.R
 
@@ -21,7 +21,7 @@ changes the data activity row to use the activity labels
 saves the mean and std into mean_and_std.csv
 saves the tidy dataset into tidy_dataset.csv
 
-# mean_and_std.csv
+## mean_and_std.csv
 contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
 variables:
 
@@ -107,7 +107,7 @@ fBodyBodyGyroMag.meanFreq..
 fBodyBodyGyroJerkMag.mean..
 fBodyBodyGyroJerkMag.meanFreq..
 
-# tidy_dataset.csv.csv
+## tidy_dataset.csv.csv
 contains 181 rows (including header) and 82 columns (including enumeration column) in a default csv format
 
 variables:
